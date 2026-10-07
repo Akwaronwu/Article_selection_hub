@@ -1,0 +1,26 @@
+TY  - JOUR
+AU  - Smith, Jane
+AU  - Doe, John
+TI  - Large Language Models for Vulnerability Detection: An Empirical Study
+JO  - Empirical Software Engineering
+PY  - 2024
+DO  - 10.1000/llm-vuln.2024.001
+AB  - We evaluate an LLM-based approach for detecting software vulnerabilities
+      on 12 open-source projects.
+KW  - LLM
+KW  - vulnerability detection
+UR  - https://example.org/llm-vuln
+LA  - en
+ER  -
+
+TY  - CONF
+AU  - Lee, Wei
+TI  - A Comparative Study of Static Analysis Tools for Secure Coding
+PY  - 2022
+DO  - 10.1000/static.2022.002
+ER  -
+
+TY  - JOUR
+AU  - NoTitle, Author
+DO  - 10.1000/doi-only.2023.009
+ER  -

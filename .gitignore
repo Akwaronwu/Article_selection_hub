@@ -1,0 +1,33 @@
+# --- Environments & secrets ---
+.env
+.env.*
+!.env.example
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+
+# --- Node / frontend ---
+node_modules/
+.next/
+out/
+npm-debug.log*
+
+# --- Data & uploads (research data never committed) ---
+backend/data/
+uploads/
+*.db
+*.sqlite3
+
+# --- Editors / OS ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# --- Scratch inspection files ---
+_*.txt

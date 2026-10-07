@@ -1,0 +1,7 @@
+# A comment line — ignored by the importer
+10.1000/alpha.2020.001
+https://doi.org/10.1000/beta.2021.002
+doi:10.1000/gamma.2022.003
+
+this line has no DOI and is reported
+10.1000/delta.2024.004;
